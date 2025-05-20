@@ -1,0 +1,26 @@
+{
+  "user1": {
+    "firstname": "Daniel",
+    "lastname": "James",
+    "username": "admin123",
+    "email": "admin2@example.com",
+    "password": "Aa$12345",
+    "role": "ADMIN"
+  },
+  "user2": {
+    "firstname": "Bob",
+    "lastname": "Joe",
+    "username": "admin1234",
+    "email": "admin3@example.com",
+    "password": "Aa$12345",
+    "role": "ADMIN"
+  },
+  "user3": {
+    "firstname": "Jane",
+    "lastname": "Doe",
+    "username": "admin12345",
+    "email": "admin4@example.com",
+    "password": "Aa$12345",
+    "role": "ADMIN"
+  }
+}

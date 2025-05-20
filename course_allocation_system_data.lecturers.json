@@ -1,0 +1,611 @@
+[{
+  "_id": {
+    "$oid": "6618d09eae87b01c78fd96f4"
+  },
+  "expertise_areas": [
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Formal Languages and Grammars"
+  ],
+  "title": "Mr.",
+  "firstname": "John",
+  "lastname": "Onyima",
+  "__v": 21,
+  "courses": [
+    {
+      "_id": {
+        "$oid": "661857ee27a2a91654822edd"
+      },
+      "title": "Automata Theory and Formal Languages",
+      "code": 335
+    },
+    {
+      "_id": {
+        "$oid": "6618585b27a2a91654822ee1"
+      },
+      "title": "Artificial Intelligence I",
+      "code": 337
+    },
+    {
+      "_id": {
+        "$oid": "661b97a2846cc21654371342"
+      },
+      "title": "Artificial Intelligence II",
+      "code": 438
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6618d4eeae87b01c78fd96f6"
+  },
+  "expertise_areas": [
+    "Digital Logic Design",
+    "Microprocessors",
+    "Compiler Design and Construction",
+    "Numerical Analysis Techniques for Scientific Computing"
+  ],
+  "title": "Mr.",
+  "firstname": "",
+  "lastname": "Izu",
+  "__v": 28,
+  "courses": [
+    {
+      "_id": {
+        "$oid": "66171caf5bb7cc21109b35d4"
+      },
+      "title": "Introduction to Microcomputer Systems",
+      "code": 203
+    },
+    {
+      "_id": {
+        "$oid": "66171d745bb7cc21109b35dc"
+      },
+      "title": "Introduction to Digital Systems Design",
+      "code": 204
+    },
+    {
+      "_id": {
+        "$oid": "66185b7327a2a91654822f03"
+      },
+      "title": "Numerical Methods",
+      "code": 411
+    },
+    {
+      "_id": {
+        "$oid": "66185fb827a2a91654822f1f"
+      },
+      "title": "Compiler Construction",
+      "code": 434
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6618d777ae87b01c78fd96f8"
+  },
+  "expertise_areas": [
+    "Database Design",
+    "Database Management Systems",
+    "Software Engineering",
+    "Programming Languages"
+  ],
+  "title": "Miss",
+  "firstname": "Aminat",
+  "lastname": "Atanda",
+  "__v": 32,
+  "courses": [
+    {
+      "_id": {
+        "$oid": "66171a605bb7cc21109b35c8"
+      },
+      "title": "Introduction to Database Systems",
+      "code": 104
+    },
+    {
+      "_id": {
+        "$oid": "66171b705bb7cc21109b35cc"
+      },
+      "title": "Computing Practice",
+      "code": 102
+    },
+    {
+      "_id": {
+        "$oid": "66171c255bb7cc21109b35cf"
+      },
+      "title": "Computer Programming I",
+      "code": 201
+    },
+    {
+      "_id": {
+        "$oid": "661b93aa846cc21654371334"
+      },
+      "title": "Database Design and Management",
+      "code": 421
+    }
+  ],
+  "updatedAt": {
+    "$date": "2024-04-28T18:33:34.080Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6618d92aae87b01c78fd96fa"
+  },
+  "expertise_areas": [
+    "Low Level Programming",
+    "Assembly Language"
+  ],
+  "title": "Mrs.",
+  "firstname": "Blessing",
+  "lastname": "Uzor",
+  "__v": 7,
+  "courses": [
+    {
+      "_id": {
+        "$oid": "66171cfb5bb7cc21109b35d8"
+      },
+      "title": "Assembly Language Programming",
+      "code": 231
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6618d9f5ae87b01c78fd96fc"
+  },
+  "expertise_areas": [
+    "Data Structures and Algorithms",
+    "Discrete Mathematics"
+  ],
+  "title": "Dr.",
+  "firstname": "",
+  "lastname": "Ukekwe",
+  "__v": 16,
+  "courses": [
+    {
+      "_id": {
+        "$oid": "66171e275bb7cc21109b35e4"
+      },
+      "title": "Data Structures",
+      "code": 232
+    },
+    {
+      "_id": {
+        "$oid": "6618590d27a2a91654822ee8"
+      },
+      "title": "Switching Algebra & Discrete Structures",
+      "code": 311
+    }
+  ],
+  "updatedAt": {
+    "$date": "2024-04-29T08:15:58.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6618db1cae87b01c78fd96fe"
+  },
+  "expertise_areas": [
+    "Software Development Methodologies",
+    "Web Development Technologies and Frameworks",
+    "Mobile Communications Networks"
+  ],
+  "title": "Mr.",
+  "firstname": "",
+  "lastname": "Nworgu",
+  "__v": 21,
+  "courses": [
+    {
+      "_id": {
+        "$oid": "66185d0a27a2a91654822f16"
+      },
+      "title": "Web Application Development",
+      "code": 471
+    },
+    {
+      "_id": {
+        "$oid": "6618600327a2a91654822f25"
+      },
+      "title": "Mobile Communications",
+      "code": 442
+    },
+    {
+      "_id": {
+        "$oid": "661b9976846cc2165437134a"
+      },
+      "title": "Software Engineering II",
+      "code": 333
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6618dce3ae87b01c78fd9700"
+  },
+  "expertise_areas": [
+    "Operating System Design and Implementation",
+    "Advanced Network Protocols"
+  ],
+  "title": "Prof.",
+  "firstname": "Francis",
+  "lastname": "Bakpo",
+  "__v": 23,
+  "courses": [
+    {
+      "_id": {
+        "$oid": "6618570327a2a91654822ed6"
+      },
+      "title": "Operating Systems II",
+      "code": 331
+    },
+    {
+      "_id": {
+        "$oid": "66185af927a2a91654822efd"
+      },
+      "title": "Advanced Computer Networks",
+      "code": 441
+    }
+  ],
+  "updatedAt": {
+    "$date": "2024-04-29T08:22:58.778Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6618dd8dae87b01c78fd9702"
+  },
+  "expertise_areas": [
+    "Computer Architecture"
+  ],
+  "title": "Dr.",
+  "firstname": "",
+  "lastname": "Okereke",
+  "__v": 14,
+  "courses": [
+    {
+      "_id": {
+        "$oid": "66171d745bb7cc21109b35dc"
+      },
+      "title": "Introduction to Digital Systems Design",
+      "code": 204
+    },
+    {
+      "_id": {
+        "$oid": "6618576927a2a91654822ed9"
+      },
+      "title": "Computer Architecture and Organization",
+      "code": 341
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6619666aae87b01c78fd9704"
+  },
+  "expertise_areas": [
+    "Computer Graphics",
+    "Structured Programming",
+    "Concurrent Programming"
+  ],
+  "title": "Mrs.",
+  "firstname": "",
+  "lastname": "Asogwa",
+  "__v": 21,
+  "courses": [
+    {
+      "_id": {
+        "$oid": "66185b2b27a2a91654822f00"
+      },
+      "title": "Structured Programming",
+      "code": 463
+    },
+    {
+      "_id": {
+        "$oid": "6618606327a2a91654822f2b"
+      },
+      "title": "Concurrent Programming",
+      "code": 464
+    },
+    {
+      "_id": {
+        "$oid": "661b91ec846cc21654371330"
+      },
+      "title": "Computer Graphics and Animation",
+      "code": 435
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661967d0ae87b01c78fd9706"
+  },
+  "expertise_areas": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Expert Systems"
+  ],
+  "title": "Dr. (Mrs)",
+  "firstname": "",
+  "lastname": "Ezema",
+  "__v": 21,
+  "courses": [
+    {
+      "_id": {
+        "$oid": "6618585b27a2a91654822ee1"
+      },
+      "title": "Artificial Intelligence I",
+      "code": 337
+    },
+    {
+      "_id": {
+        "$oid": "66185fdc27a2a91654822f22"
+      },
+      "title": "Expert Systems",
+      "code": 436
+    },
+    {
+      "_id": {
+        "$oid": "661b97a2846cc21654371342"
+      },
+      "title": "Artificial Intelligence II",
+      "code": 438
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66196853ae87b01c78fd9708"
+  },
+  "expertise_areas": [
+    "Digital Systems Design",
+    "Practical application of Digital Systems Design concepts"
+  ],
+  "title": "Dr.",
+  "firstname": "",
+  "lastname": "Ezeora",
+  "__v": 22,
+  "courses": [
+    {
+      "_id": {
+        "$oid": "66171d745bb7cc21109b35dc"
+      },
+      "title": "Introduction to Digital Systems Design",
+      "code": 204
+    },
+    {
+      "_id": {
+        "$oid": "661858b227a2a91654822ee5"
+      },
+      "title": "Laboratory for Digital Systems Design",
+      "code": 351
+    },
+    {
+      "_id": {
+        "$oid": "66185f8227a2a91654822f1c"
+      },
+      "title": "Advanced Digital Laboratory",
+      "code": 452
+    }
+  ],
+  "updatedAt": {
+    "$date": "2024-04-23T19:12:48.027Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66196965ae87b01c78fd970a"
+  },
+  "expertise_areas": [
+    "Optimization Techniques",
+    "Design and Analysis of Algorithms",
+    "Network Security"
+  ],
+  "title": "Dr.",
+  "firstname": "",
+  "lastname": "Eneh",
+  "__v": 22,
+  "courses": [
+    {
+      "_id": {
+        "$oid": "66185a0927a2a91654822eef"
+      },
+      "title": "Operations Research",
+      "code": 419
+    },
+    {
+      "_id": {
+        "$oid": "66185a8227a2a91654822ef7"
+      },
+      "title": "Algorithms",
+      "code": 431
+    },
+    {
+      "_id": {
+        "$oid": "6618604027a2a91654822f28"
+      },
+      "title": "Computer Network Security",
+      "code": 444
+    }
+  ],
+  "updatedAt": {
+    "$date": "2024-04-29T08:11:55.460Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66196a68ae87b01c78fd970c"
+  },
+  "expertise_areas": [
+    "Computer Graphics"
+  ],
+  "title": "Dr. (Mrs)",
+  "firstname": "",
+  "lastname": "Obayi",
+  "__v": 7,
+  "courses": [
+    {
+      "_id": {
+        "$oid": "661b91ec846cc21654371330"
+      },
+      "title": "Computer Graphics and Animation",
+      "code": 435
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66196ba5ae87b01c78fd970e"
+  },
+  "expertise_areas": [
+    "Software Project Management Techniques"
+  ],
+  "title": "Dr.",
+  "firstname": "",
+  "lastname": "Anichebe",
+  "__v": 7,
+  "courses": [
+    {
+      "_id": {
+        "$oid": "66185c7027a2a91654822f0d"
+      },
+      "title": "Project Management",
+      "code": 437
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66197051ae87b01c78fd9710"
+  },
+  "expertise_areas": [
+    "Database Design",
+    "Database Management Systems",
+    "Data warehousing"
+  ],
+  "title": "Dr.",
+  "firstname": "Matthew",
+  "lastname": "Okoronkwo",
+  "__v": 15,
+  "courses": [
+    {
+      "_id": {
+        "$oid": "66171a605bb7cc21109b35c8"
+      },
+      "title": "Introduction to Database Systems",
+      "code": 104
+    },
+    {
+      "_id": {
+        "$oid": "661b93aa846cc21654371334"
+      },
+      "title": "Database Design and Management",
+      "code": 421
+    }
+  ],
+  "updatedAt": {
+    "$date": "2024-04-25T11:05:28.613Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661ba6f5846cc21654371363"
+  },
+  "expertise_areas": [
+    "Computer Networks",
+    "Data Communication Protocols"
+  ],
+  "title": "Mr.",
+  "firstname": "",
+  "lastname": "Aneke",
+  "__v": 9,
+  "courses": [
+    {
+      "_id": {
+        "$oid": "66171dd85bb7cc21109b35e0"
+      },
+      "title": "Data and Computer Communication",
+      "code": 242
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661d4a31344a5d36b4bf2392"
+  },
+  "expertise_areas": [
+    "Performance Analysis of Computer Systems"
+  ],
+  "title": "Dr.",
+  "firstname": "",
+  "lastname": "Echezona",
+  "__v": 7,
+  "courses": [
+    {
+      "_id": {
+        "$oid": "6618597f27a2a91654822eec"
+      },
+      "title": "Computer System Performance Evaluation",
+      "code": 417
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662a396e1f2fc940d838fce2"
+  },
+  "expertise_areas": [
+    "Artificial Intelligence",
+    "Machine learning",
+    "Network Security",
+    "Discrete Mathematics",
+    "Data Communication Protocols"
+  ],
+  "title": "Mr.",
+  "firstname": "Ponsak",
+  "lastname": "Bande",
+  "courses": [
+    {
+      "_id": {
+        "$oid": "66171dd85bb7cc21109b35e0"
+      },
+      "title": "Data and Computer Communication",
+      "code": 242
+    },
+    {
+      "_id": {
+        "$oid": "6618585b27a2a91654822ee1"
+      },
+      "title": "Artificial Intelligence I",
+      "code": 337
+    },
+    {
+      "_id": {
+        "$oid": "6618590d27a2a91654822ee8"
+      },
+      "title": "Switching Algebra & Discrete Structures",
+      "code": 311
+    },
+    {
+      "_id": {
+        "$oid": "6618604027a2a91654822f28"
+      },
+      "title": "Computer Network Security",
+      "code": 444
+    },
+    {
+      "_id": {
+        "$oid": "661b97a2846cc21654371342"
+      },
+      "title": "Artificial Intelligence II",
+      "code": 438
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-04-25T11:07:26.251Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-25T11:08:03.205Z"
+  },
+  "__v": 5
+}]

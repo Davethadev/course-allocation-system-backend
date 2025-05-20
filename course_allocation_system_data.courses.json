@@ -1,0 +1,958 @@
+[{
+  "_id": {
+    "$oid": "6617179efa16560e9418ae99"
+  },
+  "title": "Introduction to Computer Science for Physical Sciences",
+  "code": 105,
+  "level": 100,
+  "unit": 2,
+  "semester": "first",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "6617179efa16560e9418ae9a"
+      },
+      "keyword": "Programming Fundamentals",
+      "weight": 5
+    },
+    {
+      "_id": {
+        "$oid": "6617179efa16560e9418ae9b"
+      },
+      "keyword": "Computer Hardware",
+      "weight": 3
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661719845bb7cc21109b35c5"
+  },
+  "title": "Computer Hardware Organization",
+  "code": 103,
+  "level": 100,
+  "unit": 3,
+  "semester": "first",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "661719845bb7cc21109b35c6"
+      },
+      "keyword": "Computer Hardware",
+      "weight": 5
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66171a605bb7cc21109b35c8"
+  },
+  "title": "Introduction to Database Systems",
+  "code": 104,
+  "level": 100,
+  "unit": 2,
+  "semester": "second",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "66171a605bb7cc21109b35c9"
+      },
+      "keyword": "Database Management Systems",
+      "weight": 5
+    },
+    {
+      "_id": {
+        "$oid": "66171a605bb7cc21109b35ca"
+      },
+      "keyword": "Database Design",
+      "weight": 4
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66171b705bb7cc21109b35cc"
+  },
+  "title": "Computing Practice",
+  "code": 102,
+  "level": 100,
+  "unit": 3,
+  "semester": "second",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "66171b705bb7cc21109b35cd"
+      },
+      "keyword": "Programming Languages",
+      "weight": 4
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66171c255bb7cc21109b35cf"
+  },
+  "title": "Computer Programming I",
+  "code": 201,
+  "level": 200,
+  "unit": 2,
+  "semester": "first",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "66171c255bb7cc21109b35d0"
+      },
+      "keyword": "Programming Languages",
+      "weight": 4
+    },
+    {
+      "_id": {
+        "$oid": "66171c255bb7cc21109b35d1"
+      },
+      "keyword": "Algorithms",
+      "weight": 4
+    },
+    {
+      "_id": {
+        "$oid": "66171c255bb7cc21109b35d2"
+      },
+      "keyword": "Data Structures",
+      "weight": 4
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66171caf5bb7cc21109b35d4"
+  },
+  "title": "Introduction to Microcomputer Systems",
+  "code": 203,
+  "level": 200,
+  "unit": 2,
+  "semester": "first",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "66171caf5bb7cc21109b35d5"
+      },
+      "keyword": "Microprocessors",
+      "weight": 4
+    },
+    {
+      "_id": {
+        "$oid": "66171caf5bb7cc21109b35d6"
+      },
+      "keyword": "Assembly Language Programming",
+      "weight": 4
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66171cfb5bb7cc21109b35d8"
+  },
+  "title": "Assembly Language Programming",
+  "code": 231,
+  "level": 200,
+  "unit": 2,
+  "semester": "first",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "66171cfb5bb7cc21109b35d9"
+      },
+      "keyword": "Assembly Language",
+      "weight": 4
+    },
+    {
+      "_id": {
+        "$oid": "66171cfb5bb7cc21109b35da"
+      },
+      "keyword": "Low Level Programming",
+      "weight": 4
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66171d745bb7cc21109b35dc"
+  },
+  "title": "Introduction to Digital Systems Design",
+  "code": 204,
+  "level": 200,
+  "unit": 3,
+  "semester": "second",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "66171d745bb7cc21109b35dd"
+      },
+      "keyword": "Digital Logic Design",
+      "weight": 4
+    },
+    {
+      "_id": {
+        "$oid": "66171d745bb7cc21109b35de"
+      },
+      "keyword": "Computer Architecture",
+      "weight": 3
+    },
+    {
+      "keyword": "Digital Systems Design",
+      "weight": 5
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66171dd85bb7cc21109b35e0"
+  },
+  "title": "Data and Computer Communication",
+  "code": 242,
+  "level": 200,
+  "unit": 2,
+  "semester": "second",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "66171dd85bb7cc21109b35e1"
+      },
+      "keyword": "Data Communication Protocols",
+      "weight": 4
+    },
+    {
+      "_id": {
+        "$oid": "66171dd85bb7cc21109b35e2"
+      },
+      "keyword": "Computer Networks",
+      "weight": 3
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66171e275bb7cc21109b35e4"
+  },
+  "title": "Data Structures",
+  "code": 232,
+  "level": 200,
+  "unit": 2,
+  "semester": "second",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "66171e275bb7cc21109b35e5"
+      },
+      "keyword": "Data Structures and Algorithms",
+      "weight": 5
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6618570327a2a91654822ed6"
+  },
+  "title": "Operating Systems II",
+  "code": 331,
+  "level": 300,
+  "unit": 3,
+  "semester": "first",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "6618570327a2a91654822ed7"
+      },
+      "keyword": "Operating System Design and Implementation",
+      "weight": 5
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6618576927a2a91654822ed9"
+  },
+  "title": "Computer Architecture and Organization",
+  "code": 341,
+  "level": 300,
+  "unit": 2,
+  "semester": "first",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "6618576927a2a91654822eda"
+      },
+      "keyword": "Operating Systems",
+      "weight": 5
+    },
+    {
+      "_id": {
+        "$oid": "6618576a27a2a91654822edb"
+      },
+      "keyword": "Computer Architecture",
+      "weight": 3
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661857ee27a2a91654822edd"
+  },
+  "title": "Automata Theory and Formal Languages",
+  "code": 335,
+  "level": 300,
+  "unit": 2,
+  "semester": "first",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "661857ee27a2a91654822ede"
+      },
+      "keyword": "Theoretical Foundations of Computing",
+      "weight": 4
+    },
+    {
+      "_id": {
+        "$oid": "661857ee27a2a91654822edf"
+      },
+      "keyword": "Formal Languages and Grammars",
+      "weight": 5
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6618585b27a2a91654822ee1"
+  },
+  "title": "Artificial Intelligence I",
+  "code": 337,
+  "level": 300,
+  "unit": 2,
+  "semester": "first",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "6618585b27a2a91654822ee2"
+      },
+      "keyword": "Artificial Intelligence",
+      "weight": 5
+    },
+    {
+      "_id": {
+        "$oid": "6618585b27a2a91654822ee3"
+      },
+      "keyword": "Problem Solving Techniques",
+      "weight": 4
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661858b227a2a91654822ee5"
+  },
+  "title": "Laboratory for Digital Systems Design",
+  "code": 351,
+  "level": 300,
+  "unit": 3,
+  "semester": "first",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "661858b227a2a91654822ee6"
+      },
+      "keyword": "Practical application of Digital Systems Design concepts",
+      "weight": 5
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6618590d27a2a91654822ee8"
+  },
+  "title": "Switching Algebra & Discrete Structures",
+  "code": 311,
+  "level": 300,
+  "unit": 3,
+  "semester": "first",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "6618590d27a2a91654822ee9"
+      },
+      "keyword": "Discrete Mathematics",
+      "weight": 5
+    },
+    {
+      "_id": {
+        "$oid": "6618590d27a2a91654822eea"
+      },
+      "keyword": "Logic Design",
+      "weight": 3
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6618597f27a2a91654822eec"
+  },
+  "title": "Computer System Performance Evaluation",
+  "code": 417,
+  "level": 400,
+  "unit": 2,
+  "semester": "first",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "6618597f27a2a91654822eed"
+      },
+      "keyword": "Performance Analysis of Computer Systems",
+      "weight": 5
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66185a0927a2a91654822eef"
+  },
+  "title": "Operations Research",
+  "code": 419,
+  "level": 400,
+  "unit": 3,
+  "semester": "first",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "66185a0927a2a91654822ef0"
+      },
+      "keyword": "Optimization Techniques",
+      "weight": 5
+    },
+    {
+      "_id": {
+        "$oid": "66185a0927a2a91654822ef1"
+      },
+      "keyword": "Applied Mathematics for Problem Solving",
+      "weight": 4
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66185a8227a2a91654822ef7"
+  },
+  "title": "Algorithms",
+  "code": 431,
+  "level": 400,
+  "unit": 2,
+  "semester": "first",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "66185a8227a2a91654822ef8"
+      },
+      "keyword": "Design and Analysis of Algorithms",
+      "weight": 5
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66185af927a2a91654822efd"
+  },
+  "title": "Advanced Computer Networks",
+  "code": 441,
+  "level": 400,
+  "unit": 3,
+  "semester": "first",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "66185af927a2a91654822efe"
+      },
+      "keyword": "Advanced Network Protocols",
+      "weight": 5
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66185b2b27a2a91654822f00"
+  },
+  "title": "Structured Programming",
+  "code": 463,
+  "level": 400,
+  "unit": 2,
+  "semester": "first",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "66185b2b27a2a91654822f01"
+      },
+      "keyword": "Structured Programming",
+      "weight": 5
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66185b7327a2a91654822f03"
+  },
+  "title": "Numerical Methods",
+  "code": 411,
+  "level": 400,
+  "unit": 3,
+  "semester": "first",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "66185b7327a2a91654822f04"
+      },
+      "keyword": "Numerical Analysis Techniques for Scientific Computing",
+      "weight": 5
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66185bc527a2a91654822f06"
+  },
+  "title": "Systems Modelling & Simulation",
+  "code": 413,
+  "level": 400,
+  "unit": 2,
+  "semester": "first",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "66185bc527a2a91654822f07"
+      },
+      "keyword": "System Modeling and Simulation Techniques",
+      "weight": 5
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66185c2e27a2a91654822f09"
+  },
+  "title": "Computer Process Control",
+  "code": 415,
+  "level": 400,
+  "unit": 2,
+  "semester": "first",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "66185c2e27a2a91654822f0a"
+      },
+      "keyword": "Process Control Systems",
+      "weight": 5
+    },
+    {
+      "_id": {
+        "$oid": "66185c2e27a2a91654822f0b"
+      },
+      "keyword": "Industrial Automation",
+      "weight": 3
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66185c7027a2a91654822f0d"
+  },
+  "title": "Project Management",
+  "code": 437,
+  "level": 400,
+  "unit": 2,
+  "semester": "first",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "66185c7027a2a91654822f0e"
+      },
+      "keyword": "Software Project Management Techniques",
+      "weight": 5
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66185c9327a2a91654822f10"
+  },
+  "title": "Game Management",
+  "code": 439,
+  "level": 400,
+  "unit": 2,
+  "semester": "first",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "66185c9327a2a91654822f11"
+      },
+      "keyword": "Game Design and Development Principles",
+      "weight": 5
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66185cd627a2a91654822f13"
+  },
+  "title": "Organisation of Programming Languages",
+  "code": 461,
+  "level": 400,
+  "unit": 2,
+  "semester": "first",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "66185cd627a2a91654822f14"
+      },
+      "keyword": "Programming Language Design and Theory",
+      "weight": 5
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66185d0a27a2a91654822f16"
+  },
+  "title": "Web Application Development",
+  "code": 471,
+  "level": 400,
+  "unit": 2,
+  "semester": "first",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "66185d0a27a2a91654822f17"
+      },
+      "keyword": "Web Development Technologies and Frameworks",
+      "weight": 5
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66185f8227a2a91654822f1c"
+  },
+  "title": "Advanced Digital Laboratory",
+  "code": 452,
+  "level": 400,
+  "unit": 3,
+  "semester": "second",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "66185f8227a2a91654822f1d"
+      },
+      "keyword": "Digital Systems Design",
+      "weight": 5
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66185fb827a2a91654822f1f"
+  },
+  "title": "Compiler Construction",
+  "code": 434,
+  "level": 400,
+  "unit": 3,
+  "semester": "second",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "66185fb827a2a91654822f20"
+      },
+      "keyword": "Compiler Design and Construction",
+      "weight": 5
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66185fdc27a2a91654822f22"
+  },
+  "title": "Expert Systems",
+  "code": 436,
+  "level": 400,
+  "unit": 2,
+  "semester": "second",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "66185fdc27a2a91654822f23"
+      },
+      "keyword": "Expert Systems",
+      "weight": 5
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6618600327a2a91654822f25"
+  },
+  "title": "Mobile Communications",
+  "code": 442,
+  "level": 400,
+  "unit": 2,
+  "semester": "second",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "6618600327a2a91654822f26"
+      },
+      "keyword": "Mobile Communications Networks",
+      "weight": 5
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6618604027a2a91654822f28"
+  },
+  "title": "Computer Network Security",
+  "code": 444,
+  "level": 400,
+  "unit": 2,
+  "semester": "second",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "6618604027a2a91654822f29"
+      },
+      "keyword": "Network Security",
+      "weight": 5
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6618606327a2a91654822f2b"
+  },
+  "title": "Concurrent Programming",
+  "code": 464,
+  "level": 400,
+  "unit": 2,
+  "semester": "second",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "6618606327a2a91654822f2c"
+      },
+      "keyword": "Concurrent Programming",
+      "weight": 5
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661b91ec846cc21654371330"
+  },
+  "title": "Computer Graphics and Animation",
+  "code": 435,
+  "level": 400,
+  "unit": 2,
+  "semester": "second",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "661b91ec846cc21654371331"
+      },
+      "keyword": "Computer Graphics",
+      "weight": 5
+    },
+    {
+      "_id": {
+        "$oid": "661b91ec846cc21654371332"
+      },
+      "keyword": "Computer Animation",
+      "weight": 4
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661b93aa846cc21654371334"
+  },
+  "title": "Database Design and Management",
+  "code": 421,
+  "level": 400,
+  "unit": 3,
+  "semester": "first",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "661b93aa846cc21654371335"
+      },
+      "keyword": "Advanced Database Design Techniques",
+      "weight": 5
+    },
+    {
+      "_id": {
+        "$oid": "661b93aa846cc21654371336"
+      },
+      "keyword": "Database Administration",
+      "weight": 4
+    },
+    {
+      "_id": {
+        "$oid": "661b93aa846cc21654371337"
+      },
+      "keyword": "Database Design",
+      "weight": 4
+    },
+    {
+      "_id": {
+        "$oid": "661b93aa846cc21654371338"
+      },
+      "keyword": "Database Management Systems",
+      "weight": 5
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661b97a2846cc21654371342"
+  },
+  "title": "Artificial Intelligence II",
+  "code": 438,
+  "level": 400,
+  "unit": 2,
+  "semester": "second",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "661b97a2846cc21654371343"
+      },
+      "keyword": "Machine learning",
+      "weight": 5
+    },
+    {
+      "_id": {
+        "$oid": "661b97a2846cc21654371344"
+      },
+      "keyword": "Artificial Intelligence",
+      "weight": 5
+    },
+    {
+      "_id": {
+        "$oid": "661b97a2846cc21654371345"
+      },
+      "keyword": "Natural Language Processing",
+      "weight": 4
+    },
+    {
+      "_id": {
+        "$oid": "661b97a2846cc21654371346"
+      },
+      "keyword": "Data Science",
+      "weight": 3
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661b9976846cc2165437134a"
+  },
+  "title": "Software Engineering II",
+  "code": 333,
+  "level": 300,
+  "unit": 2,
+  "semester": "first",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "661b9976846cc2165437134b"
+      },
+      "keyword": "Software Development Methodologies",
+      "weight": 5
+    },
+    {
+      "_id": {
+        "$oid": "661b9976846cc2165437134c"
+      },
+      "keyword": "Software Design Principles",
+      "weight": 5
+    },
+    {
+      "_id": {
+        "$oid": "661b9976846cc2165437134d"
+      },
+      "keyword": "Advanced Software Development Methodologies",
+      "weight": 4
+    },
+    {
+      "_id": {
+        "$oid": "661b9976846cc2165437134e"
+      },
+      "keyword": "Software Testing and Quality Assurance",
+      "weight": 4
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662a38c41f2fc940d838fcaa"
+  },
+  "title": "New course",
+  "code": 414,
+  "level": 100,
+  "unit": 3,
+  "semester": "second",
+  "required_expertise": [
+    {
+      "_id": {
+        "$oid": "662a38c51f2fc940d838fcab"
+      },
+      "keyword": "Database Management Systems",
+      "weight": 5
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-04-25T11:04:37.079Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-25T11:04:37.079Z"
+  },
+  "__v": 0
+}]
